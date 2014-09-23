@@ -1,0 +1,9 @@
+A note on using cx_Freeze to build executables from .py files:
+
+cx_Freeze uses a setup script which contains the information it needs to build the executable. An example of such a script can be found in each of the script folders that are sub-folders of this one. 
+
+The executable is built from this script by navigating to the folder containing the setup script in the windows command line and running the command "Python setup.py build"
+
+The argument "build" tells python to compile and run the script, and the script's contents call the cx_Freeze modules that build the executable. 
+
+More information can be found online in the cx_Freeze documentation. 

@@ -1,0 +1,1 @@
+This script builds entries that can be copied into the SRP Content dictionary's initialize procedure from that dictionary's report procedure.

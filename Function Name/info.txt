@@ -1,0 +1,1 @@
+This script generates the list of the names of all of the functions listed under the "Functions" section of the M-AT wiki.

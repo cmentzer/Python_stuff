@@ -1,0 +1,744 @@
+                                           Srp Content Dictionary Detail Report                 Page:  1
+                                                                                                Date:  06/18/14 10:23
+                                                                                                User:  Mentzer,Clayton
+  Content      benefitHeader                                                                    Active        No
+               Benefits                                                                           Type        ImageFlow
+  Language
+Flow Item               bust
+Image Dictionary
+Click Handle
+      Scalable
+         Alt Text
+           Height      100
+          Width          100
+      Source URL          PUB\srp\homeButtonBenefits.png
+      Hover URL
+
+
+  Content      benefitsHeader                                                                   Active        No
+               Benefits                                                                           Type        ImageFlow
+  Language
+Flow Item               bust
+Image Dictionary
+Click Handle
+      Scalable
+         Alt Text
+           Height      100
+          Width          100
+      Source URL          PUB\srp\homeButtonBenefits.png
+      Hover URL
+
+
+  Content      DividerForHeader                                                                 Active        Yes
+               Divider for multipage header                                                       Type        ImageFlow
+  Language
+Flow Item               d
+Image Dictionary
+Click Handle
+      Scalable
+         Alt Text
+           Height       24
+          Width             8
+      Source URL          Pub/srp/Images/Widgetheaderdarkdivider3bg.png
+      Hover URL
+Flow Item               left
+Image Dictionary
+Click Handle
+      Scalable
+         Alt Text
+           Height       24
+          Width             8
+      Source URL          Pub/srp/Images/Widgetheaderdarkdivider2bg.png
+      Hover URL
+Flow Item               right
+Image Dictionary
+Click Handle
+      Scalable
+         Alt Text
+           Height       24
+          Width             8
+      Source URL          Pub/srp/Images/Widgetheaderdarkdivider1bg.png
+      Hover URL
+                                           Srp Content Dictionary Detail Report                 Page:  2
+                                                                                                Date:  06/18/14 10:23
+                                                                                                User:  Mentzer,Clayton
+  Content      FooterOkOnly                                                                     Active        Yes
+               OK only button for Footer                                                          Type        ImageFlow
+  Language
+Flow Item               OK
+Image Dictionary
+Click Handle
+      Scalable
+         Alt Text
+           Height       39
+          Width          119
+      Source URL          PUB\srp\Image\Buttonwizardaccept.png
+      Hover URL
+
+
+  Content      homeLogoff                                                                       Active        Yes
+               Welcome Logoff button                                                              Type        ImageFlow
+  Language
+Flow Item               logoff
+Image Dictionary
+Click Handle            logoff
+      Scalable
+         Alt Text
+           Height       36
+          Width           65
+      Source URL          PUB\srp\Images\Buttonlogoffsmall.png
+      Hover URL
+
+
+  Content      navHomeLogoff                                                                    Active        Yes
+               Navigate Home Logoff                                                               Type        ImageFlow
+  Language
+Flow Item               home
+Image Dictionary
+Click Handle            home
+      Scalable
+         Alt Text
+           Height       36
+          Width           65
+      Source URL          ../PUB/srp/ButtonSmallHome.png
+      Hover URL          ../PUB/srp/ButtonSmallHomeOn.png
+Flow Item               logoff
+Image Dictionary
+Click Handle            logoff
+      Scalable
+         Alt Text
+           Height       36
+          Width           65
+      Source URL          ../PUB/srp/ButtonSmallLogOff.png
+      Hover URL          ../PUB/srp/ButtonSmallLogOffOn.png
+
+
+  Content      openingHeader                                                                    Active        Yes
+               Openings                                                                           Type        ImageFlow
+  Language
+Flow Item               bust
+Image Dictionary
+Click Handle
+      Scalable
+         Alt Text
+           Height      100
+                                           Srp Content Dictionary Detail Report                 Page:  3
+                                                                                                Date:  06/18/14 10:23
+                                                                                                User:  Mentzer,Clayton
+          Width          100
+      Source URL          PUB\srp\HeaderIconJobOpenings.png
+      Hover URL
+Flow Item               hdr
+Image Dictionary
+Click Handle
+      Scalable
+         Alt Text
+           Height       67
+          Width          602
+      Source URL          PUB/srp/titleOpening.png
+      Hover URL
+
+
+  Content      PAYROLLBENEFITSHEADER                                                            Active        Yes
+               Payroll Benefits Header                                                            Type        ImageFlow
+  Language
+Flow Item               bust
+Image Dictionary        PAYROLLBENEFITSBUST
+Click Handle
+      Scalable
+         Alt Text
+           Height       78
+          Width           84
+      Source URL          ../PUB/srp/HeaderIconBenefits.png
+      Hover URL
+Flow Item               hdr
+Image Dictionary        PAYROLLTITLE
+Click Handle
+      Scalable
+         Alt Text
+           Height       67
+          Width          602
+      Source URL          ../PUB/srp/titlePayroll.png
+      Hover URL
+
+
+  Content      payrollHeader                                                                    Active        Yes
+               Payroll                                                                            Type        ImageFlow
+  Language
+Flow Item               bust
+Image Dictionary        PAYROLLBUST
+Click Handle
+      Scalable
+         Alt Text
+           Height      100
+          Width          100
+      Source URL          PUB\srp\Headericonbilling.png
+      Hover URL
+Flow Item               hdr
+Image Dictionary        PAYROLLTITLE
+Click Handle
+      Scalable
+         Alt Text
+           Height       67
+          Width          602
+      Source URL          PUB\srp\titlePayroll.png
+      Hover URL
+                                           Srp Content Dictionary Detail Report                 Page:  4
+                                                                                                Date:  06/18/14 10:23
+                                                                                                User:  Mentzer,Clayton
+  Content      payrollHistoryHeader                                                             Active        Yes
+               Payroll History Header                                                             Type        ImageFlow
+  Language
+Flow Item               bust
+Image Dictionary        PAYROLLHISTORYBUST
+Click Handle
+      Scalable
+         Alt Text
+           Height       78
+          Width           84
+      Source URL          ../PUB/srp/HeaderIconPayrollHistory.png
+      Hover URL
+Flow Item               hdr
+Image Dictionary        PAYROLLTITLE
+Click Handle
+      Scalable
+         Alt Text
+           Height       67
+          Width          602
+      Source URL          ../PUB/srp/titlePayroll.png
+      Hover URL
+
+
+  Content      payrollHistoryYear                                                               Active        Yes
+               Payroll History Year Menu                                                          Type        ImageFlow
+  Language
+Flow Item               return
+Image Dictionary        PAYROLLRETURN
+Click Handle            return
+      Scalable
+         Alt Text
+           Height       71
+          Width          224
+      Source URL          ../PUB/srp/ButtonReturnToPayrollCurrent.png
+      Hover URL          ../PUB/srp/ButtonReturnToPayrollCurrentOn.png
+
+
+  Content      payrollMenu                                                                      Active        Yes
+               Payroll Menu Buttons                                                               Type        ImageFlow
+  Language
+Flow Item               benefits
+Image Dictionary        PAYROLLBENEFITSMENUBUTTON
+Click Handle            benefits
+      Scalable
+         Alt Text
+           Height       71
+          Width          224
+      Source URL          ../PUB/srp/ButtonBenefits.png
+      Hover URL          ../PUB/srp/ButtonBenefitsOn.png
+
+
+  Content      payrollMenuButtons                                                               Active        No
+               Payroll Menu buttons                                                               Type        ImageFlow
+  Language
+Flow Item               history
+Image Dictionary
+Click Handle
+      Scalable
+         Alt Text
+           Height       70
+                                           Srp Content Dictionary Detail Report                 Page:  5
+                                                                                                Date:  06/18/14 10:23
+                                                                                                User:  Mentzer,Clayton
+          Width          200
+      Source URL          PUB\srp\Images\Buttonupdateprofile.png
+      Hover URL
+Flow Item               benefits
+Image Dictionary
+Click Handle
+      Scalable
+         Alt Text
+           Height       70
+          Width          200
+      Source URL          PUB\srp\Images\Buttonupdateprofile.png
+      Hover URL
+Flow Item               schedule
+Image Dictionary
+Click Handle
+      Scalable
+         Alt Text
+           Height       70
+          Width          200
+      Source URL          PUB\srp\Images\Buttonupdateprofile.png
+      Hover URL
+
+
+  Content      payrollReturnToMain                                                              Active        Yes
+               Payroll return menu                                                                Type        ImageFlow
+  Language
+Flow Item               return
+Image Dictionary        PAYROLLRETURN
+Click Handle            return
+      Scalable
+         Alt Text
+           Height       71
+          Width          224
+      Source URL          ../PUB/srp/ButtonReturnToPayrollCurrent.png
+      Hover URL          ../PUB/srp/ButtonReturnToPayrollCurrentOn.png
+
+
+  Content      profileHdrReflect                                                                Active        No
+               Profile Header Reflection                                                          Type        ImageFlow
+  Language
+Flow Item               hdr
+Image Dictionary
+Click Handle
+      Scalable
+         Alt Text
+           Height       67
+          Width          602
+      Source URL          PUB\srp\TitlePatientProfile.png
+      Hover URL
+
+
+  Content      profileHeader                                                                    Active        Yes
+               Profile                                                                            Type        ImageFlow
+  Language
+Flow Item               bust
+Image Dictionary        PROFILEMAINBUST
+Click Handle
+      Scalable
+         Alt Text
+           Height      100
+                                           Srp Content Dictionary Detail Report                 Page:  6
+                                                                                                Date:  06/18/14 10:23
+                                                                                                User:  Mentzer,Clayton
+          Width          100
+      Source URL          ../PUB/srp/HeaderIconSRPRofile.png
+      Hover URL
+Flow Item               hdr
+Image Dictionary        PROFILEMAINTITLE
+Click Handle
+      Scalable
+         Alt Text
+           Height       67
+          Width          602
+      Source URL          ../PUB/srp/TitlePatientProfile.png
+      Hover URL
+
+
+  Content      profileMenuProfile                                                               Active        Yes
+               Profile Menu Buttons                                                               Type        ImageFlow
+  Language
+Flow Item               myinfo
+Image Dictionary        PROFILEMYINFOMENUBUTTON
+Click Handle            myinfo
+      Scalable
+         Alt Text
+           Height       71
+          Width          224
+      Source URL          PUB\srp\UpdateMyInfoAndContacts.png
+      Hover URL
+Flow Item               ddtax
+Image Dictionary        PROFILEDDTAXMENUBUTTON
+Click Handle            ddtax
+      Scalable
+         Alt Text
+           Height       71
+          Width          224
+      Source URL          PUB\srp\ButtonUpdateDirectDepositAndTax.png
+      Hover URL
+Flow Item               skillic
+Image Dictionary        PROFILESKILLICMENUBUTTON
+Click Handle            skillic
+      Scalable
+         Alt Text
+           Height       71
+          Width          224
+      Source URL          PUB\srp\ButtonUpdateSkillsAndLicenses.png
+      Hover URL
+Flow Item               pending
+Image Dictionary        PROFILEVIEWPENDINGMENUBUTTON
+Click Handle            pending
+      Scalable
+         Alt Text
+           Height       71
+          Width          224
+      Source URL          PUB\srp\ButtonViewPendingTransactions.png
+      Hover URL
+Flow Item               print
+Image Dictionary        PRINTMENUBUTTON
+Click Handle            print
+      Scalable
+         Alt Text
+                                           Srp Content Dictionary Detail Report                 Page:  7
+                                                                                                Date:  06/18/14 10:23
+                                                                                                User:  Mentzer,Clayton
+           Height       71
+          Width          224
+      Source URL          PUB\srp\Images\Buttonprint.png
+      Hover URL
+
+
+  Content      profileNewMenu                                                                   Active        Yes
+               Edit Profile Menu                                                                  Type        ImageFlow
+  Language
+Flow Item               return
+Image Dictionary        PROFILERETURNNOSUBMITBUTTON
+Click Handle            return
+      Scalable
+         Alt Text
+           Height       71
+          Width          224
+      Source URL          ../PUB/srp/ButtonDoNotSubmitReturnToProfile.png
+      Hover URL          ../PUB/srp/ButtonDoNotSubmitReturnToProfileOn.png
+
+
+  Content      requestBadgeFooter                                                               Active        Yes
+               Request Badge Footer                                                               Type        ImageFlow
+  Language
+Flow Item               submit
+Image Dictionary        SUBMITFOOTER
+Click Handle            submit
+      Scalable
+         Alt Text
+           Height       39
+          Width          119
+      Source URL          ../PUB/srp/Buttonwizardsubmit.png
+      Hover URL          ../PUB/srp/ButtonWizardSubmitOn.png
+
+
+  Content      requestBadgeMenu                                                                 Active        Yes
+               Request Badge Menu                                                                 Type        ImageFlow
+  Language
+Flow Item               return
+Image Dictionary        REQUESTSRETURN
+Click Handle            return
+      Scalable
+         Alt Text
+           Height       71
+          Width          224
+      Source URL          ../PUB/srp/ButtonReturnToRequests.png
+      Hover URL          ../PUB/srp/ButtonReturnToRequestsOn.png
+
+
+  Content      requestFooterMore                                                                Active        Yes
+               Request footer w/More                                                              Type        ImageFlow
+  Language
+Flow Item               Contact
+Image Dictionary
+Click Handle
+      Scalable
+         Alt Text
+           Height       36
+          Width          166
+      Source URL          PUB\srp\Images\Headercontactus.png
+      Hover URL
+Flow Item               More
+                                           Srp Content Dictionary Detail Report                 Page:  8
+                                                                                                Date:  06/18/14 10:23
+                                                                                                User:  Mentzer,Clayton
+Image Dictionary
+Click Handle
+      Scalable
+         Alt Text
+           Height       36
+          Width          100
+      Source URL          PUB\srp\icon_More.png
+      Hover URL
+
+
+  Content      requestHeader                                                                    Active        Yes
+               Requests                                                                           Type        ImageFlow
+  Language
+Flow Item               bust
+Image Dictionary
+Click Handle
+      Scalable
+         Alt Text
+           Height      100
+          Width          100
+      Source URL          PUB\srp\HeaderIconRequests.png
+      Hover URL
+Flow Item               hdr
+Image Dictionary
+Click Handle
+      Scalable
+         Alt Text
+           Height       67
+          Width          602
+      Source URL          PUB\srp\titleRequests.png
+      Hover URL
+
+
+  Content      requestLeaveFooter                                                               Active        Yes
+               Request LOA Footer                                                                 Type        ImageFlow
+  Language
+Flow Item               submit
+Image Dictionary        SUBMITFOOTER
+Click Handle            submit
+      Scalable
+         Alt Text
+           Height       40
+          Width          120
+      Source URL          PUB\srp\Buttonwizardsubmit.png
+      Hover URL
+
+
+  Content      requestLoaHeader                                                                 Active        Yes
+               Request LOA Header                                                                 Type        ImageFlow
+  Language
+Flow Item               bust
+Image Dictionary        LEAVEREQUESTBUST
+Click Handle
+      Scalable
+         Alt Text
+           Height       78
+          Width           84
+      Source URL          ../PUB/srp/HeaderIconLeave.png
+      Hover URL
+Flow Item               hdr
+                                           Srp Content Dictionary Detail Report                 Page:  9
+                                                                                                Date:  06/18/14 10:23
+                                                                                                User:  Mentzer,Clayton
+Image Dictionary        LEAVEREQUESTTITLE
+Click Handle
+      Scalable
+         Alt Text
+           Height       67
+          Width          602
+      Source URL          ../PUB/srp/titleRequests.png
+      Hover URL
+
+
+  Content      requestMenu                                                                      Active        Yes
+               Requests Menu Buttons                                                              Type        ImageFlow
+  Language
+Flow Item               badge
+Image Dictionary        REQUESTSBADGEMENUBUTTON
+Click Handle            badge
+      Scalable
+         Alt Text           Badge
+           Height       71
+          Width          224
+      Source URL          ../PUB/srp/ButtonBadge.png
+      Hover URL          ../PUB/srp/ButtonBadgeOn.png
+Flow Item               leave
+Image Dictionary        REQUESTSLEAVEMENUBUTTON
+Click Handle            leave
+      Scalable
+         Alt Text           Leave
+           Height       71
+          Width          224
+      Source URL          ../PUB/srp/ButtonLeave.png
+      Hover URL          ../PUB/srp/ButtonLeaveOn.png
+Flow Item               vacation
+Image Dictionary        REQUESTVACATAIONMENUBUTTON
+Click Handle            vacation
+      Scalable
+         Alt Text           Vacation
+           Height       71
+          Width          224
+      Source URL          ../PUB/srp/ButtonVacation.png
+      Hover URL          ../PUB/srp/ButtonVacationOn.png
+
+
+  Content      requestVacaFooter                                                                Active        Yes
+               Request Vacation Footer                                                            Type        ImageFlow
+  Language
+Flow Item               submit
+Image Dictionary        SUBMITFOOTER
+Click Handle            submit
+      Scalable
+         Alt Text
+           Height       40
+          Width          120
+      Source URL          PUB\srp\Buttonwizardsubmit.png
+      Hover URL
+
+
+  Content      requestVacationHeader                                                            Active        Yes
+               Request Vacation Header                                                            Type        ImageFlow
+  Language
+Flow Item               bust
+                                           Srp Content Dictionary Detail Report                 Page:  10
+                                                                                                Date:  06/18/14 10:23
+                                                                                                User:  Mentzer,Clayton
+Image Dictionary        VACATIONREQUESTBUST
+Click Handle
+      Scalable
+         Alt Text
+           Height       78
+          Width           84
+      Source URL          ../PUB/srp/HeaderIconVacation.png
+      Hover URL
+Flow Item               hdr
+Image Dictionary        VACATIONREQUESTTITLE
+Click Handle
+      Scalable
+         Alt Text
+           Height       67
+          Width          602
+      Source URL          ../PUB/srp/titleRequests.png
+      Hover URL
+
+
+  Content      returnToProfile                                                                  Active        Yes
+               Return to Profile Menu Button                                                      Type        ImageFlow
+  Language
+Flow Item               return
+Image Dictionary
+Click Handle            return
+      Scalable
+         Alt Text
+           Height       70
+          Width          200
+      Source URL          PUB\srp\Images\Buttondonotsubmitreturntoprofile.png
+      Hover URL
+
+
+  Content      SelectFooter                                                                     Active        Yes
+               Selection Page Footer                                                              Type        ImageFlow
+  Language
+Flow Item               exit
+Image Dictionary
+Click Handle            exit
+      Scalable
+         Alt Text
+           Height       40
+          Width          120
+      Source URL          PUB\srp\ButtonWizardBack.png
+      Hover URL
+Flow Item               go
+Image Dictionary
+Click Handle            go
+      Scalable
+         Alt Text
+           Height       40
+          Width          120
+      Source URL          PUB\srp\ButtonWizardContinue.png
+      Hover URL
+
+
+  Content      Test                                                                             Active        No
+               Item Name Test                                                                     Type        ImageFlow
+  Language
+Flow Item               profile
+                                           Srp Content Dictionary Detail Report                 Page:  11
+                                                                                                Date:  06/18/14 10:23
+                                                                                                User:  Mentzer,Clayton
+Image Dictionary
+Click Handle
+      Scalable
+         Alt Text
+           Height      100
+          Width          100
+      Source URL          /path/name.png
+      Hover URL
+
+
+  Content      TopLogo                                                                          Active        Yes
+               Top Logo Branding Image                                                            Type        ImageFlow
+  Language
+Flow Item               logo
+Image Dictionary
+Click Handle
+      Scalable
+         Alt Text
+           Height       80
+          Width          480
+      Source URL          ../PUB/srp/MGH_Home.png
+      Hover URL
+
+
+  Content      trainHeader                                                                      Active        Yes
+               Trainings                                                                          Type        ImageFlow
+  Language
+Flow Item               bust
+Image Dictionary        TRAININGHEADERICON
+Click Handle            bust
+      Scalable
+         Alt Text
+           Height      100
+          Width          100
+      Source URL          ../PUB/srp/
+      Hover URL
+Flow Item               hdr
+Image Dictionary        TRAININGSTITLE
+Click Handle
+      Scalable
+         Alt Text
+           Height
+          Width
+      Source URL
+      Hover URL
+
+
+  Content      welcomeBodyProfile                                                               Active        Yes
+               Welcome Button Profile                                                             Type        ImageFlow
+  Language
+Flow Item               profile
+Image Dictionary        HOMEPROFILE
+Click Handle            profile
+      Scalable
+         Alt Text           Employee Profile
+           Height      100
+          Width          114
+      Source URL          ../PUB/srp/homeProfile.png
+      Hover URL          ../PUB/srp/homeProfileOn.png
+Flow Item               payroll
+                                           Srp Content Dictionary Detail Report                 Page:  12
+                                                                                                Date:  06/18/14 10:23
+                                                                                                User:  Mentzer,Clayton
+Image Dictionary        HOMEPAYROLL
+Click Handle            payroll
+      Scalable
+         Alt Text           Payroll
+           Height      100
+          Width          114
+      Source URL          ../PUB/srp/homePayroll.png
+      Hover URL          ../PUB/srp/homePayrollOn.png
+Flow Item               request
+Image Dictionary        HOMEREQUEST
+Click Handle            request
+      Scalable
+         Alt Text           Requests
+           Height      100
+          Width          114
+      Source URL          ../PUB/srp/homeRequests.png
+      Hover URL          ../PUB/srp/homeRequestsOn.png
+Flow Item               opening
+Image Dictionary        HOMEOPENING
+Click Handle            opening
+      Scalable
+         Alt Text           Openings
+           Height      100
+          Width          114
+      Source URL          ../PUB/srp/homeJobs.png
+      Hover URL          ../PUB/srp/homeJobsOn.png
+Flow Item               train
+Image Dictionary        HOMETRAIN
+Click Handle            training
+      Scalable
+         Alt Text           Trainings
+           Height      100
+          Width          114
+      Source URL          ../PUB/srp/homeTraining.png
+      Hover URL          ../PUB/srp/homeTrainingOn.png
+Flow Item               benefit
+Image Dictionary        HOMEBENEFITS
+Click Handle
+      Scalable
+         Alt Text           Benefits
+           Height      100
+          Width          114
+      Source URL          ../PUB/srp/homeBenefits.png
+      Hover URL          ../PUB/srp/homeBenefitsOn.png
+Flow Item               schedule
+Image Dictionary        HOMESCHEDULE
+Click Handle
+      Scalable
+         Alt Text           "no click"
+           Height      100
+          Width          114
+      Source URL          ../PUB/srp/homeSchedule.png
+      Hover URL          ../PUB/srp/homeScheduleOn.png
